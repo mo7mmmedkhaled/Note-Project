@@ -1,0 +1,29 @@
+.expense-item-new {
+  justify-content: space-between;
+  display: inline-block;
+  width: 90%;
+  align-items: center;
+  padding: 12px 20px;
+  margin: 10px;
+  border-radius: 7px;
+  background-color: #942f2f;
+  position: static;
+}
+
+.expense-item-new h3 {
+  text-align: left;
+  white-space: pre-wrap;
+  color: white;
+}
+
+.btt {
+  float: right;
+  color: white;
+  font-size: 30px;
+}
+
+
+
+
+
+
